@@ -1,0 +1,129 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-7716781410446074/6375345270",
+      "main_ads_intertitial":"ca-app-pub-7716781410446074/8268093015",
+      "main_ads_natives":"ca-app-pub-7716781410446074/3829072989",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-7716781410446074/5006423283",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Arean Breakout Guide 1",
+      "image": "https://image.winudf.com/v2/user/admin/YWRtaW5fYjk1ODdkMWZmYTk5MjlmYzEyOTRiZWRiMTM2NDUxMGEuanBnXzE2NTUyNTk0NzMxMjA/screen-0.jpg?fakeurl=1&type=.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Arean Breakout Guide 2",
+      "image": "https://arenabreakout.com/web202210/img/feature/pic_feature_1.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Arean Breakout Guide 2",
+      "image": "https://arenabreakout.com/web202210/img/feature/pic_feature_3.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Arean Breakout Guide 1",
+      "title": "COD guide - Modern Warfare",
+      "image": "https://arenabreakout.com/web202210/img/feature/pic_feature_3.jpg",
+      "description": "I'm sure you're still excited to chat about Arena Breakout and all the crazy things you got up to during the CBT. Let's take a look at the Fun Facts from our first CBT!",
+      "link": "https://m.taptap.io/post/3940340"
+    },
+    {
+      "id": 2,
+      "name_category": "Arean Breakout Guide 1",
+      "title": "Closed Beta Test Shutdown",
+      "image": "https://img2.tapimg.net/post/etag/FsgNOXFEqX-_Zbad33JuDGZpvLi7.png?imageView2/2/w/720/h/9999/q/80/format/webp/interlace/1/ignore-error/1",
+      "description": "The Arena Breakout closed beta test is coming to a close. We received many suggestions and feedback over the past month and felt your love for the game. Thank you so much for trying it out and we truly appreciate your input on making this game better..",
+      "link": "https://m.taptap.io/post/3823822"
+    },
+    {
+      "id": 3,
+      "name_category": "Arean Breakout Guide 1",
+      "title": "Arena Breakout | Navigation Guide for Beginners",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Dear players, welcome to the Arena Breakout's official homepage. Here you can find game information, tutorials, community activities and other contents related to Arena Breakout.",
+      "link": "https://www.taptap.io/post/3010247"
+    },
+    {
+      "id": 4,
+      "name_category": "Arean Breakout Guide 1",
+      "title": "Big news tomorrow!",
+      "image": "https://img2.tapimg.net/post/etag/FuRwmJJYG7oz1Qt45XzL7XoxkHjF.jpg?imageView2/2/w/1080/h/9999/q/80/format/jpg/interlace/1/ignore-error/1",
+      "description": "Arena Breakout is a free-to-play immersive tactical first-person shooter on mobile. Featuring a deadly open world called the Dark Zone, Arena Breakout allows you to become an honorable task force member or an unscrupulous rogue. Carefully monitor your vitals with Arena Breakout’s realistic health system and apply the proper treatment to more than 10 different wound types and ensure survival. Remember to play your style, whether it’s sneaking around in stealth or taking on enemies head-on! Defeating enemies is not the only way to win, the goal is to search for supplies and successfully break out!",
+      "link": "https://www.taptap.io/post/2310716"
+    }
+  ]
+}
