@@ -3,13 +3,13 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"",
-      "main_ads_banner": "ca-app-pub-7716781410446074/4932935931",
-      "main_ads_intertitial":"ca-app-pub-7716781410446074/8865777249",
-      "main_ads_natives":"ca-app-pub-7716781410446074/4358220865",
+      "main_ads_banner": "ca-app-pub-7716781410446074/9277805787",
+      "main_ads_intertitial":"ca-app-pub-7716781410446074/7216433433",
+      "main_ads_natives":"ca-app-pub-7716781410446074/7954800039",
       "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "open_ads_admob":"ca-app-pub-7716781410446074/2091166084",
+      "open_ads_admob":"ca-app-pub-7716781410446074/9747212097",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"1",
@@ -78,52 +78,52 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Car Rally",
-      "image": "https://carx-online.com/uploads/home/1v/ay/1VaYhwBRLp_1080_810.webp"
+      "name_category": "Gulai",
+      "image": "https://rasabunda.com/wp-content/uploads/2021/10/Ikan-Gulai-Kakap.jpg"
     },
     {
       "id": 2,
-      "name_category": "Drift Racing",
-      "image": "https://carx-online.com/uploads/home/bh/4v/bH4vlR2Y2a_1080_810.webp"
+      "name_category": "Goreng",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2021/12/18/resep-dendeng-basah-balado_11.jpeg?w=1200"
     },
     {
       "id": 3,
-      "name_category": "Highway Racing",
-      "image": "https://carx-online.com/uploads/home/mm/y1/MMy1HBOgbu_1080_810.webp"
+      "name_category": "rebus",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2019/01/25/127fc582-4654-442d-a147-16c9d01efe35.jpeg?w=700&q=90"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Car Rally",
-      "title": "Car Rally1",
-      "image": "https://carx-online.com/uploads/home/1v/ay/1VaYhwBRLp_1080_810.webp",
-      "description": "I'm sure you're still excited to chat about Arena Breakout and all the crazy things you got up to during the CBT. Let's take a look at the Fun Facts from our first CBT!",
-      "link": "https://traxion.gg/carx-street-review-ios-leads-the-way-for-carxs-move-to-open-world/"
+      "name_category": "Gulai",
+      "title": "Gulai Cumi Super Gurih",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2021/08/18/resep-gulai-cumi-isi-tahu-1_43.png?w=700&q=90",
+      "description": "Bumbu Ikan Goreng yang Enak dan Lezat",
+      "link": "https://food.detik.com/makanan-laut/d-5686943/masak-masak-gulai-cumi-isi-tahu-yang-gurih-mantap-rasanya"
     },
     {
       "id": 2,
-      "name_category": "Drift Racing",
-      "title": "Drift Racing",
-      "image": "https://carx-online.com/uploads/home/bh/4v/bH4vlR2Y2a_1080_810.webp",
-      "description": "CarX Street review: leads the way for CarX’s move to open-world",
-      "link": "https://store.steampowered.com/app/1114150/CarX_Street/"
+      "name_category": "Goreng",
+    "title": "Bumbu Ikan Goreng yang Enak dan Lezat",
+      "image": "https://cdns.klimg.com/merdeka.com/i/w/news/2022/05/18/1436079/670x335/resep-bumbu-ikan-goreng-yang-enak-dan-lezat-mudah-dibuat.jpg",
+      "description": "Bumbu Ikan Goreng yang Enak dan Lezat",
+      "link": "https://www.merdeka.com/jateng/resep-bumbu-ikan-goreng-yang-enak-dan-lezat-mudah-dibuat-kln.html"
     },
     {
       "id": 3,
-      "name_category": "Highway Racing",
-      "title": "Highway Racing",
-      "image": "https://carx-online.com/uploads/home/mm/y1/MMy1HBOgbu_1080_810.webp",
-      "description": "Dear players, welcome to the Arena Breakout's official homepage. Here you can find game information, tutorials, community activities and other contents related to Arena Breakout.",
-      "link": "https://racinggames.gg/misc/2023-racing-game-preview-every-new-racing-game-coming-in-2023/"
+      "name_category": "rebus",
+      "title": "Tahu Gulung Sawi Putih",
+      "image": "https://img-global.cpcdn.com/recipes/ba974d05fb4a65c9/680x482cq70/tahu-gulung-sawi-putih-foto-resep-utama.webp",
+      "description": "Tahu Gulung Sawi Putih",
+      "link": "https://cookpad.com/id/resep/16471170-tahu-gulung-sawi-putih?ref=search&search_term=masakan%20diet%20serba%20rebus"
     },
     {
       "id": 4,
-      "name_category": "Highway Racing",
-      "title": "Highway Racing",
-      "image": "https://carx-online.com/uploads/home/xu/20/XU20aIBB4Z_1920_AUTO.webp",
-      "description": "Arena Breakout is a free-to-play immersive tactical first-person shooter on mobile. Featuring a deadly open world called the Dark Zone, Arena Breakout allows you to become an honorable task force member or an unscrupulous rogue. Carefully monitor your vitals with Arena Breakout’s realistic health system and apply the proper treatment to more than 10 different wound types and ensure survival. Remember to play your style, whether it’s sneaking around in stealth or taking on enemies head-on! Defeating enemies is not the only way to win, the goal is to search for supplies and successfully break out!",
-      "link": "https://gamingonphone.com/guides/carx-street-guide-list-of-best-cars-in-the-game/"
+      "name_category": "Goreng",
+      "title": "7 Resep Udang Goreng Gurih Cocok Jadi Lauk Praktis",
+      "image": "https://cdn0-production-images-kly.akamaized.net/8yNvvmdDbHgHxDlutsSB7YLvA8g=/846x0:3846x4001/680x906/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2905784/original/053244900_1568014615-shutterstock_1320484106.jpg",
+      "description": "7 Resep Udang Goreng Gurih Cocok Jadi Lauk Praktis",
+      "link": "https://www.fimela.com/food/read/4992861/7-resep-udang-goreng-gurih-cocok-jadi-lauk-praktis"
     }
   ]
 }
