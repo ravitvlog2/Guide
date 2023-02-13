@@ -1,0 +1,129 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-7716781410446074/4932935931",
+      "main_ads_intertitial":"ca-app-pub-7716781410446074/3376327593",
+      "main_ads_natives":"ca-app-pub-7716781410446074/4358220865",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-7716781410446074/2091166084",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "bitcoin",
+      "high_paying_keyword_2": "tradingforex",
+      "high_paying_keyword_3": "NFT",
+      "high_paying_keyword_4": "stock market",
+      "high_paying_keyword_5": "Dow Jones",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "CarX Street Game 1",
+      "image": "https://image.winudf.com/v2/user/admin/YWRtaW5fYjk1ODdkMWZmYTk5MjlmYzEyOTRiZWRiMTM2NDUxMGEuanBnXzE2NTUyNTk0NzMxMjA/screen-0.jpg?fakeurl=1&type=.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "CarX Street Game 2",
+      "image": "https://arenabreakout.com/web202210/img/feature/pic_feature_1.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "CarX Street Game 3",
+      "image": "https://arenabreakout.com/web202210/img/feature/pic_feature_3.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "CarX Street Game 1",
+      "title": "CarX Street review: iOS leads the way for CarX’s move to open-world",
+      "image": "https://traxion.gg/wp-content/uploads/2022/11/CarX-Street-review-iOS-leads-the-way-for-CarXs-move-to-open-world.jpg",
+      "description": "CarX Street review: iOS leads the way for CarX’s move to open-world",
+      "link": "https://traxion.gg/carx-street-review-ios-leads-the-way-for-carxs-move-to-open-world/"
+    },
+    {
+      "id": 2,
+      "name_category": "CarX Street Game 2",
+      "title": "CarX Street",
+      "image": "https://prress.com/wp-content/uploads/2022/12/CarX-Street-the-open-world-mobile-driving-game-review.jpg",
+      "description": "Review Game CarX Street",
+      "link": "https://apps.apple.com/us/app/carx-street/id1458863319"
+    },
+    {
+      "id": 3,
+      "name_category": "CarX Street Game 3",
+      "title": "Car x Street my experience in my poco f3 gt 😁😁😁",
+      "image": "https://boostapk.com/wp-content/uploads/2022/06/Carx-Street-Mobile.jpg",
+      "description": "Car x Street my experience in my poco f3 gt 😁😁😁",
+      "link": "https://m.taptap.io/posts/carx-street-reviews-1123536105"
+    },
+    {
+      "id": 4,
+      "name_category": "CarX Street Game 4",
+      "title": "TheCoolestVehicle",
+      "image": "https://static.republika.co.id/uploads/member/images/news/8r5va0gp92.jpg",
+      "description": "#TheCoolestVehicle",
+      "link": "https://m.taptap.io/post/4203854"
+    }
+  ]
+}
