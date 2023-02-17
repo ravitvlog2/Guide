@@ -1,0 +1,147 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-5223619116259710/5967267651",
+      "main_ads_intertitial":"ca-app-pub-5223619116259710/6322490876",
+      "main_ads_natives":"ca-app-pub-5223619116259710/3480705119",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-5223619116259710/7612086463",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "stockmarket",
+      "high_paying_keyword_2": "forextrading",
+      "high_paying_keyword_3": "candlestick",
+      "high_paying_keyword_4": "stocktrading",
+      "high_paying_keyword_5": "investment",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Hogward Mistery 1",
+      "image": "https://www.gamepur.com/wp-content/uploads/2023/02/trans-flag-scarf-mod-hogwarts-legacy.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Hogward Mistery 2",
+      "image": "https://progameguides.com/wp-content/uploads/2023/02/hogwarts-legacy-all-clothing-mod.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Hogward Mistery 3",
+      "image": "https://static1-es.millenium.gg/articles/5/50/56/5/@/278607-hogwarts-sebastian-orig-1-article_image_t-1.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Hogward Mistery 1",
+      "title": "Essential Tips and Tricks",
+      "image": "https://www.taminggaming.com/cms/graphics/screen_shot_2902.jpg",
+      "description": "With so much to explore and unlock across the wizarding world of Hogwarts Legacy, it makes sense to come equipped with an arsenal of handy tips and tricks to ensure you get off on the right foot with your fellow housemates.",
+      "link": "https://www.ign.com/wikis/hogwarts-legacy/Essential_Tips_and_Tricks"
+    },
+    {
+      "id": 2,
+      "name_category": "Hogward Mistery 2",
+      "title": "Hogwarts Legacy Trick Fixes PC Stuttering Problems and Low FPS Dips",
+      "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/wieldingawandhogwartslegacy.jpg",
+      "description": "A workaround to Hogwarts Legacy's PC optimization issues surfaces online, giving many players relief from their choppy framerates.",
+      "link": "https://gamerant.com/hogwarts-legacy-pc-stuttering-fix/"
+    },
+    {
+      "id": 3,
+      "name_category": "Hogward Mistery 3",
+      "title": "Top tips, tricks, and our guide to getting around in Hogwarts Legacy",
+      "image": "https://cdn.mos.cms.futurecdn.net/3anS9fmj2KsMwaxGzB8RbJ.jpg",
+      "description": "Revelio! You’ll be hearing that a lot in Hogwarts Legacy, out now on the Epic Games Store. The spell reveals the hidden secrets of Hogwarts School of Witchcraft and Wizardry and is probably the most used piece of magic in the early hours of the game.",
+      "link": "https://store.epicgames.com/en-US/news/top-tips-tricks-and-our-guide-to-getting-around-in-hogwarts-legacy"
+    },
+{
+      "id": 4,
+      "name_category": "Hogward Mistery 3",
+      "title": "Best Hogwarts Legacy mods 2023",
+      "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/hogwarts-legacy-mods-shrek-2-550x309.jpg",
+      "description": "These are the best Hogwarts Legacy mods to make your time in the wizarding world more enjoyable, including an arachnophobia filter and a host of strange brooms.",
+      "link": "https://www.pcgamesn.com/hogwarts-legacy/mods"
+    },
+{
+      "id": 5,
+      "name_category": "Hogward Mistery 3",
+      "title": "Hogwarts Legacy multiplayer mod HogWarp is much easier than Skyrim Together, so you can hopefully play it next month",
+      "image": "https://cdn.mos.cms.futurecdn.net/gbXJCgpFpyeqTu25TK5W7i-970-80.jpg",
+      "description": "The team behind the Hogwarts Legacy multiplayer mod, HogWarp, has shared that it's easier to develop this project compared to its previous Skyrim Together mod, so you shouldn't have to wait as long to see its release.",
+      "link": "https://www.gamesradar.com/hogwarts-legacy-multiplayer-mod-hogwarp-is-much-easier-than-skyrim-together-so-you-can-hopefully-play-it-next-month/"
+    },
+
+
+    {
+      "id": 6,
+      "name_category": "Hogward Mistery 3",
+      "title": "Hogwarts Legacy tips and tricks: here’s how you can improve your gameplay experience",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2023/02/hl2.jpg",
+      "description": "The much-anticipated Hogwarts Legacy has been released to much fanfare. Hogwarts Legacy has become one of the most popular games on Steam even before its launch. According to SteamDB, the peak concurrent player count of Hogwarts Legacy on Steam is 489,139, which is higher than popular games like GTA 5, Destiny 2, Monster Hunter: World, and others. Before you embark on your journey through the magical world of Hogwarts Legacy, check out these tips and tricks to improve your gameplay experience:",
+      "link": "https://www.91mobiles.com/hub/hogwarts-legacy-tips-and-tricks/"
+    }
+  ]
+}
